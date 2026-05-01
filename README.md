@@ -96,8 +96,7 @@ Transformed raw events into user-level behavioral features:
 ---
 
 ## ▶️ Run on Colab
-
-Add your Colab link here
+https://colab.research.google.com/drive/1lp__XDuTp9wjqLpXyOkQZ-IuBiWKq3rx?usp=sharing
 
 ---
 
