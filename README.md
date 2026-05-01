@@ -72,15 +72,9 @@ Transformed raw events into user-level behavioral features:
 
 ---
 
-### Ad Fatigue vs CTR
-
-![Fatigue](outputs/plots/fatigue_vs_ctr.png)
-
----
-
 ### Spend Distribution
 
-![Spend](outputs/plots/spend_boxplot.png)
+![Spend](outputs/spend_distribution.png)
 
 ---
 
