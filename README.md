@@ -68,7 +68,7 @@ Transformed raw events into user-level behavioral features:
 
 ### PCA Cluster View
 
-![PCA](outputs/plots/pca_clusters.png)
+![PCA](outputs/pca.png)
 
 ---
 
